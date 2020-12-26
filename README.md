@@ -1,4 +1,8 @@
 # Object-Detection-Rugby-Ball
+[![GitHub license](https://img.shields.io/github/license/souravkatkar/Object-Detection-Rugby-Ball)](https://github.com/souravkatkar/Object-Detection-Rugby-Ball/blob/master/LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/souravkatkar/Object-Detection-Rugby-Ball)
+![GitHub top language](https://img.shields.io/github/languages/top/souravkatkar/Object-Detection-Rugby-Ball)
+## Introduction
 The deep neural networks are incorporated with android application using Android Studio 3.5. Android studio is integrated with Android OpenCV 3.4.5 Module.
 The application will be loaded with the configuration file and custom trained weight file for a particular object. The real time camera frames are processed 
 within the application and frames are displayed with the bounded box drawn with accuracy upto 80%.
